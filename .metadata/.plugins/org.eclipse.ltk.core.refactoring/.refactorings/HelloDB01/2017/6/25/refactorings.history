@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;models&apos; to &apos;HelloDB01&apos;" description="Move &apos;models&apos; to &apos;HelloDB01&apos;" destination="/HelloDB01" element1="routes/models" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1497951472285" updateReferences="true"/>
+</session>

@@ -1,0 +1,14 @@
+<label><b>도서명</b></label>
+<input type='text' id='strTitle' name='strTitle'>
+
+<label><b>출판사</b></label>
+<input type='text' id='strComp' name='strTitle'>
+
+<label><b>장르</b></label>
+<input type='text' id='strGenre' name='strTitle'>
+
+<label><b>출판연도</b></label>
+<input type='text' id='strYear' name='strTitle'>
+
+<label><b>가격</b></label>
+<input type='text' id='intPrice' name='strTitle'>

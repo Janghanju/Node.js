@@ -1,0 +1,18 @@
+<section class='w3-row'>
+	<% list.forEach(function(item){ %>
+		<ul class='w3-ul w3-hoverable w3-col l5 m5 s5 listbox'>
+			<li class='w3-card w3-margin'>
+				<a href='<%- item.link %>' target=_naver class='w3-hover'>
+				<h4 class='caption'><%- item.title %></h4>
+				</a>
+				
+				<p class='description'>
+				<%- item.description' %>
+				</p>
+				
+				<a href='<%- item.bloglink %>' class='w3-text-blue' target=_blog>
+				<b><%- item.bloggername %></b>
+				</a>
+			</li>
+	<% }) %>
+</section>

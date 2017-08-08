@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<% inclde header.ejs %>
+</head>
+<body class='w3-light-gray w3-padding-16'>
+
+<header class='w3-blue w3-margin'>
+	<h3 class='w3-padding-16'>네이버 API 실습</h3>
+	<article class='w3-container w3-margin w3-padding-16 w3-whilte'>
+		
+	</article>
+</header>
+
+</body>
+</html>

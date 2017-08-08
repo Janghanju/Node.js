@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;BitSW_JAVA&apos;&#x0A;- Original project: &apos;BitSW_JAVA&apos;&#x0A;- Original element: &apos;BitSW_JAVA/src/JavaSumer.Hello&apos;&#x0A;- Delete subpackages" description="Delete element" element1="/src&lt;JavaSumer.Hello.src.com.bit.hello" element2="/src&lt;JavaSumer.Hello.src.com.bit" element3="/src&lt;JavaSumer.Hello.src.com" element4="/src&lt;JavaSumer.Hello.src" element5="/src&lt;JavaSumer.Hello" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1501063212435" subPackages="true" version="1.0"/>
+</session>

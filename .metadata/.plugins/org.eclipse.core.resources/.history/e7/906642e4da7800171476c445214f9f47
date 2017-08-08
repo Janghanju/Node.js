@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<% include header.ejs %>
+</head>
+<body>
+<header class='w3-container w3-blue w3-margin'>
+	<h3>도서 정보 관리</h3>
+</header>
+
+</body>
+</html>

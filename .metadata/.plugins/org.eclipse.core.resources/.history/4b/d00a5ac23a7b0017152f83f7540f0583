@@ -1,0 +1,27 @@
+var request = require('request');
+var naver_secret = require('./naver_secret.js');
+
+module.exports = (app)=>{
+	app.get('/',(req,res)=>{
+		res.render('index')
+	})
+	
+	app.post('/naver/book',(req,res)=>{
+		let searchBook = req.body.searchValue;
+		let api_url = 'https://openapi.naver.com/v1/search/book_adv.json';
+		api_url += '?query=' + encodeURI(searchBook);
+		
+		request.get(
+				{
+					url : api_url,
+					headers : {
+						'X-Naver-Client-Id' : naver_secrcet.client_id,
+						'X-Naver-Client-Secrcret' : naver_secrcet.client_secret
+					}	
+				},
+				(err,response,result)=>{
+					console.log(result)
+				}
+		)
+	})
+}

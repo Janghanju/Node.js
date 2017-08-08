@@ -1,0 +1,17 @@
+module.exports = (app,bVO)=>{
+	
+	app.get('/',(req,res)=>{
+		res.render('index')
+	})
+	
+	app.post('/insert',(req,res)=>{
+		
+		let vo = new bVO(req,body);
+		vo.save()
+			.seec((err,data)=>{
+				res.send({msg:'OK'})
+			})
+		
+	})
+	
+}

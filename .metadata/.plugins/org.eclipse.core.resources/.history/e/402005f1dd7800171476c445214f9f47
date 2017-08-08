@@ -1,0 +1,7 @@
+module.exports = (app,bVO)=>{
+	
+	app.get('/',(req,res)=>{
+		res.render('index')
+	})
+	
+}

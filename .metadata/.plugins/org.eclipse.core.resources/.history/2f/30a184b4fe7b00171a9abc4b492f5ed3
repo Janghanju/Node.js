@@ -1,0 +1,12 @@
+<section class='w3-row'>
+	<% list.forEach(function(item){ %>
+		<ul class='w3-ul w3-hoverable'>
+			<li class='w3-card w3-margin'>
+				<a href='<%- item.link %>' target=_nave class='w3-hover'>
+				<h4 class='caption'><%- item.title %></h4>
+				</a>
+				<p class='description'><%- item.description %></p>
+			</li>
+		</ul>
+	<% }> %>
+</section>

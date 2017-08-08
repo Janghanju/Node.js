@@ -1,0 +1,8 @@
+var request = require('request');
+var naver_secret = require('./naver_secret.js');
+
+module.exports = (app)=>{
+	app.get('/',(req,res)=>{
+		res.render('index')
+	})
+}

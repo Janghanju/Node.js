@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.javat_주석.eclipse.변수&apos; to &apos;주석&apos;&#x0A;- Original project: &apos;Java_in&apos;&#x0A;- Original element: &apos;org.javat_주석.eclipse.변수&apos;&#x0A;- Renamed element: &apos;org.javat_주석.eclipse.주석&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;변수&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;org.javat_주석.eclipse{변수.java[변수" matchStrategy="1" name="주석" qualified="false" references="true" similarDeclarations="false" stamp="1482899601790" textual="false" version="1.0"/>
+</session>

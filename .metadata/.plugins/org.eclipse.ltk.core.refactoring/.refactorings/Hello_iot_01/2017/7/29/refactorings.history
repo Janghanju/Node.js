@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 1 elements(s) to &apos;Hello_iot_02&apos;&#x0A;- Original project: &apos;Hello_iot_01&apos;&#x0A;- Destination element: &apos;Hello_iot_02&apos;&#x0A;- Original element: &apos;models&apos;" description="Copy folder" element1="models" files="0" flags="589830" folders="1" id="org.eclipse.wst.jsdt.ui.copy" log="models&#x09;true&#x09;false" policy="org.eclipse.wst.jsdt.ui.copyResources" stamp="1500369594808" target="/Hello_iot_02" units="0" version="1.0"/>
+</session>

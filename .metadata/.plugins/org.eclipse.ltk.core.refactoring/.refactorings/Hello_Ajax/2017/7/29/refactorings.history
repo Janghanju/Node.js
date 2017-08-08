@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Hello_Ajax/views/insert.ejs&apos; to &apos;input_form.ejs&apos;" description="Rename resource &apos;insert.ejs&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="views/insert.ejs" name="input_form.ejs" stamp="1500544042617" updateReferences="true"/>
+</session>
